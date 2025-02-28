@@ -8,3 +8,4 @@ Mattick JSA, Bromley RE, Watson KJ, Adkins RS, Holt CI, Lebov JF, Sparklin BC, T
 
 Example plots:
 
+![Plot of ONT left-sorted and right-sorted ONT alignments](ONT_alignments_plot.png)
